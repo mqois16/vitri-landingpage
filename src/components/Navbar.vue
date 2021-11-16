@@ -1,0 +1,44 @@
+<template>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container py-2">
+      <a class="navbar-brand" href="#"><strong> VITRI</strong></a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <router-link class="nav-link" to="/">Beranda</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/">Tentang</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/">Cara Kerja</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/about">Developer</router-link>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</template>
+
+<script>
+export default {
+  name: "Navbar",
+};
+</script>
+
+<style>
+</style>
