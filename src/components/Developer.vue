@@ -36,43 +36,40 @@
     </div>
     <div class="row align-items-center justify-content-around">
       <div class="card mb-3" style="width: 18rem">
-          <img src="images/avatar.png" class="card-img-top" alt="..." />
-          <div class="card-body">
-            <h5 class="card-title text-center">Lucky Dewa Satria</h5>
-            <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
-          </div>
+        <img src="images/avatar.png" class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title text-center">Lucky Dewa Satria</h5>
+          <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
         </div>
-         <div class="card mb-3" style="width: 18rem">
-          <img src="images/avatar.png" class="card-img-top" alt="..." />
-          <div class="card-body">
-            <h5 class="card-title text-center">Lucky Dewa Satria</h5>
-            <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
-          </div>
+      </div>
+      <div class="card mb-3" style="width: 18rem">
+        <img src="images/avatar.png" class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title text-center">Lucky Dewa Satria</h5>
+          <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
         </div>
-         <div class="card mb-3" style="width: 18rem">
-          <img src="images/avatar.png" class="card-img-top" alt="..." />
-          <div class="card-body">
-            <h5 class="card-title text-center">Lucky Dewa Satria</h5>
-            <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
-          </div>
+      </div>
+      <div class="card mb-3" style="width: 18rem">
+        <img src="images/avatar.png" class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title text-center">Lucky Dewa Satria</h5>
+          <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
         </div>
-         <div class="card mb-3" style="width: 18rem">
-          <img src="images/avatar.png" class="card-img-top" alt="..." />
-          <div class="card-body">
-            <h5 class="card-title text-center">Lucky Dewa Satria</h5>
-            <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
-          </div>
+      </div>
+      <div class="card mb-3" style="width: 18rem">
+        <img src="images/avatar.png" class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title text-center">Lucky Dewa Satria</h5>
+          <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
         </div>
-         <div class="card mb-3" style="width: 18rem">
-          <img src="images/avatar.png" class="card-img-top" alt="..." />
-          <div class="card-body">
-            <h5 class="card-title text-center">Lucky Dewa Satria</h5>
-            <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
-          </div>
+      </div>
+      <div class="card mb-3" style="width: 18rem">
+        <img src="images/avatar.png" class="card-img-top" alt="..." />
+        <div class="card-body">
+          <h5 class="card-title text-center">Lucky Dewa Satria</h5>
+          <p class="card-text">Teknologi Rekayasa Perangkat Lunak</p>
         </div>
- 
-
-      
+      </div>
     </div>
   </div>
 </template>
