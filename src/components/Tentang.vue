@@ -22,9 +22,12 @@
             </p>
           </div>
           <div class="row py-3">
+            <a href="/">
             <button type="button" class="btn btn-outline-warning boksbtn">
               Dashboard <b-icon-arrow-right-square />
             </button>
+            </a>
+            
           </div>
         </div>
         <div class="col">
@@ -34,8 +37,8 @@
     </div>
     <!-- Mobile -->
     <div class="container d-sm-block d-md-none">
-      <div class="row mx-2">
-        <div class="row my-3">
+      <div class="row mx-2 my-1">
+        <div class="row my-4">
           <h1>Tentang VITRI</h1>
           <h1 class="underscore">_</h1>
         </div>
@@ -54,6 +57,14 @@
             dapat dijadikan sebagai referensi penentu kebijakan.
           </p>
         </div>
+        <div class="row py-3 mb-4">
+            <a href="/">
+            <button type="button" class="btn btn-outline-warning boksbtn">
+              Dashboard <b-icon-arrow-right-square />
+            </button>
+            </a>
+            
+          </div>
       </div>
     </div>
   </div>
