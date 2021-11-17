@@ -1,5 +1,5 @@
 <template>
-  <div class="container my-5" id="developer">
+  <div class="container py-5" id="developer">
     <!-- logo -->
     <div class="row">
       <div class="col"></div>
