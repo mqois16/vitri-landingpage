@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container py-2">
-      <a class="navbar-brand" href="#"><strong> VITRI</strong></a>
+      <a class="navbar-brand" href="/"><strong> VITRI</strong></a>
       <button
         class="navbar-toggler"
         type="button"

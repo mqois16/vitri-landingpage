@@ -91,9 +91,16 @@
   display: flex;
   list-style: none;
 }
+.footer-links-mobile {
+  list-style: none;
+}
 .info-prak p {
   color: white;
   text-align: end;
+  margin: 0;
+}
+.info-prak-m p {
+  color: white;
   margin: 0;
 }
 #Footer .logo {

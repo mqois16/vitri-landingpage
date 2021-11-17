@@ -1,6 +1,7 @@
 <template>
   <div class="py-4" id="Footer">
-    <div class="container">
+      <!-- Desktop -->
+    <div class="container d-none d-lg-block">
       <div class="row">
         <div class="col">
           <div class="row">
@@ -32,6 +33,26 @@
             <p>2021</p>
         </div>
       </div>
+    </div>
+    <!-- Mobile -->
+    <div class="container d-sm-block d-lg-none">
+        <div class="row mx-2 justify-content-center text-center">
+            <ul class="footer-links-mobile">
+              <li class="nav-item">
+                <router-link class="nav-link" to="/">Beranda</router-link>
+              </li>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/">Tentang</router-link>
+              </li>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/">Cara Kerja</router-link>
+              </li>
+              <li class="nav-item">
+                <router-link class="nav-link" to="/about">Developer</router-link>
+              </li>
+            </ul>
+        </div>
+        
     </div>
   </div>
 </template>
