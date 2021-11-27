@@ -26,7 +26,7 @@
         <img src="images/avatar.png" class="card-img-top" alt="..." />
         <div class="card-body">
           <h5 class="card-title text-center">Novan Hartadi</h5>
-          <p class="card-text">Datains.id</p>
+          <p class="card-text">GAMATECHNO</p>
         </div>
       </div>
     </div>
